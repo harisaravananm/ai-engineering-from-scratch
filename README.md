@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="AI Engineering from Scratch — reference manual banner" width="100%">
+  <img src="assets/banner.svg" alt="AI Engineering from Scratch â€” reference manual banner" width="100%">
 </p>
 
 <p align="center">
   <b>Read in your language:</b>
-  <a href="i18n/es/README.md">Español</a> ·
-  <a href="i18n/fr/README.md">Français</a> ·
-  <a href="i18n/pt/README.md">Português</a> ·
-  <a href="i18n/de/README.md">Deutsch</a> ·
-  <a href="i18n/it/README.md">Italiano</a> ·
-  <a href="i18n/zh/README.md">简体中文</a> ·
-  <a href="i18n/ja/README.md">日本語</a> ·
-  <a href="i18n/ko/README.md">한국어</a> ·
-  <a href="i18n/hi/README.md">हिन्दी</a> ·
-  <a href="i18n/ar/README.md">العربية</a> ·
-  <a href="i18n/ru/README.md">Русский</a> ·
-  <a href="i18n/tr/README.md">Türkçe</a>
+  <a href="i18n/es/README.md">EspaÃ±ol</a> Â·
+  <a href="i18n/fr/README.md">FranÃ§ais</a> Â·
+  <a href="i18n/pt/README.md">PortuguÃªs</a> Â·
+  <a href="i18n/de/README.md">Deutsch</a> Â·
+  <a href="i18n/it/README.md">Italiano</a> Â·
+  <a href="i18n/zh/README.md">ç®€ä½“ä¸­æ–‡</a> Â·
+  <a href="i18n/ja/README.md">æ—¥æœ¬èªž</a> Â·
+  <a href="i18n/ko/README.md">í•œêµ­ì–´</a> Â·
+  <a href="i18n/hi/README.md">à¤¹à¤¿à¤¨à¥à¤¦à¥€</a> Â·
+  <a href="i18n/ar/README.md">Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©</a> Â·
+  <a href="i18n/ru/README.md">Ð ÑƒÑÑÐºÐ¸Ð¹</a> Â·
+  <a href="i18n/tr/README.md">TÃ¼rkÃ§e</a>
   <br><sub>Translated landing pages, committed to the repo. English is canonical; lesson pages are machine-translated on the <code>translations</code> branch. See <a href="docs/i18n.md">docs/i18n.md</a>.</sub>
 </p>
 
@@ -27,10 +27,10 @@
   <a href="https://aiengineeringfromscratch.com"><img src="https://img.shields.io/badge/web-aiengineeringfromscratch.com-3553ff?style=flat-square&labelColor=fafaf5" alt="Website"></a>
 </p>
 
-## From the creator of [Agent Memory - #1 Persistent memory ⭐](https://github.com/rohitg00/agentmemory) <a href="https://github.com/rohitg00/agentmemory/stargazers"><img src="https://img.shields.io/github/stars/rohitg00/agentmemory?style=flat-square&labelColor=fafaf5&color=3553ff" alt="GitHub stars"></a> which naturally works with any agents or chat assistants.
+## From the creator of [Agent Memory - #1 Persistent memory â­](https://github.com/rohitg00/agentmemory) <a href="https://github.com/rohitg00/agentmemory/stargazers"><img src="https://img.shields.io/github/stars/rohitg00/agentmemory?style=flat-square&labelColor=fafaf5&color=3553ff" alt="GitHub stars"></a> which naturally works with any agents or chat assistants.
 
 ```text
-░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
+â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’
 ```
 
 > **84% of students already use AI tools. Only 18% feel prepared to use them
@@ -41,8 +41,8 @@
 >
 > You don't just learn AI. You build it. End-to-end. By hand.
 
-<!-- STATS:START (generated from site/stats.json by build.js — do not edit by hand) -->
-<p align="center"><sub><b>114,584</b> readers &nbsp;·&nbsp; <b>181,995</b> page views in the last 30 days &nbsp;·&nbsp; as of 2026-08-29</sub></p>
+<!-- STATS:START (generated from site/stats.json by build.js â€” do not edit by hand) -->
+<p align="center"><sub><b>114,584</b> readers &nbsp;Â·&nbsp; <b>181,995</b> page views in the last 30 days &nbsp;Â·&nbsp; as of 2026-08-29</sub></p>
 <!-- STATS:END -->
 
 ## Start here: choose what you want to build
@@ -184,7 +184,7 @@ the test, keep the artifact. No five-minute videos, no copy-paste deploys, no ha
 Free, open source, and built to run on your own laptop.
 
 ```text
-░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
+â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’
 ```
 
 ## The shape of the curriculum
@@ -196,31 +196,31 @@ the top is breaking.
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#fafaf5','primaryTextColor':'#1a1a1a','primaryBorderColor':'#3553ff','lineColor':'#3553ff','fontFamily':'JetBrains Mono','fontSize':'12px'}}}%%
 flowchart TB
-  P0["Phase 0 — Setup &amp; Tooling"] --> P1["Phase 1 — Math Foundations"]
-  P1 --> P2["Phase 2 — ML Fundamentals"]
-  P2 --> P3["Phase 3 — Deep Learning Core"]
-  P3 --> P4["Phase 4 — Vision"]
-  P3 --> P5["Phase 5 — NLP"]
-  P3 --> P6["Phase 6 — Speech &amp; Audio"]
-  P3 --> P9["Phase 9 — RL"]
-  P5 --> P7["Phase 7 — Transformers"]
-  P7 --> P8["Phase 8 — GenAI"]
-  P7 --> P10["Phase 10 — LLMs from Scratch"]
-  P10 --> P11["Phase 11 — LLM Engineering"]
-  P10 --> P12["Phase 12 — Multimodal"]
-  P11 --> P13["Phase 13 — Tools &amp; Protocols"]
-  P13 --> P14["Phase 14 — Agent Engineering"]
-  P14 --> P15["Phase 15 — Autonomous Systems"]
-  P15 --> P16["Phase 16 — Multi-Agent &amp; Swarms"]
-  P14 --> P17["Phase 17 — Infrastructure &amp; Production"]
-  P15 --> P18["Phase 18 — Ethics &amp; Alignment"]
-  P16 --> P19["Phase 19 — Capstone Projects"]
+  P0["Phase 0 â€” Setup &amp; Tooling"] --> P1["Phase 1 â€” Math Foundations"]
+  P1 --> P2["Phase 2 â€” ML Fundamentals"]
+  P2 --> P3["Phase 3 â€” Deep Learning Core"]
+  P3 --> P4["Phase 4 â€” Vision"]
+  P3 --> P5["Phase 5 â€” NLP"]
+  P3 --> P6["Phase 6 â€” Speech &amp; Audio"]
+  P3 --> P9["Phase 9 â€” RL"]
+  P5 --> P7["Phase 7 â€” Transformers"]
+  P7 --> P8["Phase 8 â€” GenAI"]
+  P7 --> P10["Phase 10 â€” LLMs from Scratch"]
+  P10 --> P11["Phase 11 â€” LLM Engineering"]
+  P10 --> P12["Phase 12 â€” Multimodal"]
+  P11 --> P13["Phase 13 â€” Tools &amp; Protocols"]
+  P13 --> P14["Phase 14 â€” Agent Engineering"]
+  P14 --> P15["Phase 15 â€” Autonomous Systems"]
+  P15 --> P16["Phase 16 â€” Multi-Agent &amp; Swarms"]
+  P14 --> P17["Phase 17 â€” Infrastructure &amp; Production"]
+  P15 --> P18["Phase 18 â€” Ethics &amp; Alignment"]
+  P16 --> P19["Phase 19 â€” Capstone Projects"]
   P17 --> P19
   P18 --> P19
 ```
 
 ```text
-░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
+â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’
 ```
 
 ## The shape of a lesson
@@ -229,13 +229,13 @@ Each lesson lives in its own folder, with the same structure across the entire c
 
 ```text
 phases/<NN>-<phase-name>/<NN>-<lesson-name>/
-├── code/      runnable implementations (Python, TypeScript, Rust, Julia)
-├── docs/
-│   └── en.md  lesson narrative
-└── outputs/   prompts, skills, agents, or MCP servers this lesson produces
+â”œâ”€â”€ code/      runnable implementations (Python, TypeScript, Rust, Julia)
+â”œâ”€â”€ docs/
+â”‚   â””â”€â”€ en.md  lesson narrative
+â””â”€â”€ outputs/   prompts, skills, agents, or MCP servers this lesson produces
 ```
 
-Every lesson follows six beats. The *Build It / Use It* split is the spine — you implement the
+Every lesson follows six beats. The *Build It / Use It* split is the spine â€” you implement the
 algorithm from scratch first, then run the same thing through the production library. You
 understand what the framework is doing because you wrote the smaller version yourself.
 
@@ -246,14 +246,14 @@ flowchart LR
   Pr --> C["CONCEPT<br/><sub>diagrams &amp; intuition</sub>"]
   C --> B["BUILD IT<br/><sub>raw math, no frameworks</sub>"]
   B --> U["USE IT<br/><sub>same thing in PyTorch / sklearn</sub>"]
-  U --> S["SHIP IT<br/><sub>prompt · skill · agent · MCP</sub>"]
+  U --> S["SHIP IT<br/><sub>prompt Â· skill Â· agent Â· MCP</sub>"]
 ```
 
 ## Getting started
 
 Three ways in. Pick one.
 
-**Option A — learn in your terminal *(recommended)*.** After the Node.js,
+**Option A â€” learn in your terminal *(recommended)*.** After the Node.js,
 `npx`, host, and scope preflight above, install the learning skills into a
 compatible agent and let the course drive itself:
 
@@ -269,11 +269,11 @@ copied repository code commands and executable MCP or Agent Skills labs.
 Progress lives in `LEARNING.md`, `MCP-LEARNING.md`, or
 `AGENT-SKILLS-LEARNING.md` in your project, so every session can resume.
 
-**Option B — read.** Open any completed lesson on
+**Option B â€” read.** Open any completed lesson on
 [aiengineeringfromscratch.com](https://aiengineeringfromscratch.com) or expand a phase under
 [Contents](#contents). No setup, no cloning.
 
-**Option C — clone and run.**
+**Option C â€” clone and run.**
 
 ```bash
 git clone https://github.com/rohitg00/ai-engineering-from-scratch.git
@@ -315,7 +315,7 @@ a passing score.
 |---|---|
 | [`start-learning`](skills/start-learning/SKILL.md) | One-time onboarding: why you're learning, placement quiz, personalized plan saved to `LEARNING.md`. |
 | [`learn`](skills/learn/SKILL.md) | The tutor loop. Warm-up recall, then the next lesson taught interactively, then its quiz; records progress and a review queue. |
-| [`course-guide`](skills/course-guide/SKILL.md) | Topic router. "Where do I learn attention?" or "my loss is NaN" → the exact lessons, with links. |
+| [`course-guide`](skills/course-guide/SKILL.md) | Topic router. "Where do I learn attention?" or "my loss is NaN" â†’ the exact lessons, with links. |
 | [`learn-mcp`](skills/learn-mcp/SKILL.md) | Focused Model Context Protocol (MCP) tutor. Creates `MCP-LEARNING.md`, follows the 17-lesson manifest, and records wire, security, reliability, and conformance evidence. |
 | [`learn-agent-skills`](skills/learn-agent-skills/SKILL.md) | Focused Agent Skills tutor. Creates `AGENT-SKILLS-LEARNING.md`, teaches lessons 22, 24, 25, 26, and 27, and records real-host evidence. |
 | [`claude-certification`](skills/claude-certification/SKILL.md) | Certification tutor. Chooses CCAO-F, CCDV-F, CCAR-F, or CCAR-P; teaches each lesson; runs labs; reviews artifacts; administers diagnostics and mocks; saves progress. |
@@ -323,7 +323,7 @@ a passing score.
 | [`check-understanding <phase>`](skills/check-understanding/SKILL.md) | Per-phase quiz, eight questions, with feedback and specific lessons to review. Use the Codex, Claude Code, or natural-language form in the invocation table above. |
 
 ```text
-░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
+â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’
 ```
 
 ## Read the core curriculum as a book
@@ -336,17 +336,17 @@ remain first-class on GitHub and the website.
 
 | Vol | Title | Phases | Download |
 |-----|-------|--------|----------|
-| 1 | Foundations · Math, Tooling, and Classical Machine Learning | 00-02 | [EPUB](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol1-foundations.epub) · [PDF](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol1-foundations.pdf) |
-| 2 | Deep Learning · Networks, Vision, and Speech | 03, 04, 06 | [EPUB](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol2-deep-learning.epub) · [PDF](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol2-deep-learning.pdf) |
-| 3 | Language · NLP Foundations and the Transformer | 05, 07 | [EPUB](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol3-language.epub) · [PDF](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol3-language.pdf) |
-| 4 | Large Language Models · Generation, Reinforcement, Pretraining, and Engineering | 08-11 | [EPUB](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol4-llms.epub) · [PDF](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol4-llms.pdf) |
-| 5 | Agents · Multimodality, Protocols, Autonomy, and Swarms | 12-16 | [EPUB](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol5-agents.epub) · [PDF](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol5-agents.pdf) |
-| 6 | Production · Infrastructure, Safety, and Capstones | 17-19 | [EPUB](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol6-production.epub) · [PDF](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol6-production.pdf) |
+| 1 | Foundations Â· Math, Tooling, and Classical Machine Learning | 00-02 | [EPUB](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol1-foundations.epub) Â· [PDF](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol1-foundations.pdf) |
+| 2 | Deep Learning Â· Networks, Vision, and Speech | 03, 04, 06 | [EPUB](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol2-deep-learning.epub) Â· [PDF](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol2-deep-learning.pdf) |
+| 3 | Language Â· NLP Foundations and the Transformer | 05, 07 | [EPUB](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol3-language.epub) Â· [PDF](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol3-language.pdf) |
+| 4 | Large Language Models Â· Generation, Reinforcement, Pretraining, and Engineering | 08-11 | [EPUB](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol4-llms.epub) Â· [PDF](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol4-llms.pdf) |
+| 5 | Agents Â· Multimodality, Protocols, Autonomy, and Swarms | 12-16 | [EPUB](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol5-agents.epub) Â· [PDF](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol5-agents.pdf) |
+| 6 | Production Â· Infrastructure, Safety, and Capstones | 17-19 | [EPUB](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol6-production.epub) Â· [PDF](https://github.com/rohitg00/ai-engineering-from-scratch/releases/latest/download/aiefs-vol6-production.pdf) |
 
 The book is the snapshot; this repository is the living edition. Every chapter ends with links back to the lesson's animated figures, quiz, and runnable code. Build locally with `python3 scripts/build_book.py` (pandoc required); pipeline details in [book/README.md](book/README.md).
 
 ```text
-░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
+â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’
 ```
 
 ## Every lesson ships something
@@ -356,15 +356,15 @@ Other curricula end with *"congratulations, you learned X."* Each lesson here en
 
 <table>
 <tr>
-<th align="left" width="25%"><img src="site/assets/figures/001-a-prompts.svg" width="96" height="96" alt="FIG_001.A prompts"/><br/><sub>FIG_001 · A</sub><br/><b>PROMPTS</b></th>
-<th align="left" width="25%"><img src="site/assets/figures/001-b-skills.svg" width="96" height="96" alt="FIG_001.B skills"/><br/><sub>FIG_001 · B</sub><br/><b>SKILLS</b></th>
-<th align="left" width="25%"><img src="site/assets/figures/001-c-agents.svg" width="96" height="96" alt="FIG_001.C agents"/><br/><sub>FIG_001 · C</sub><br/><b>AGENTS</b></th>
-<th align="left" width="25%"><img src="site/assets/figures/001-d-mcp-servers.svg" width="96" height="96" alt="FIG_001.D MCP servers"/><br/><sub>FIG_001 · D</sub><br/><b>MCP SERVERS</b></th>
+<th align="left" width="25%"><img src="site/assets/figures/001-a-prompts.svg" width="96" height="96" alt="FIG_001.A prompts"/><br/><sub>FIG_001 Â· A</sub><br/><b>PROMPTS</b></th>
+<th align="left" width="25%"><img src="site/assets/figures/001-b-skills.svg" width="96" height="96" alt="FIG_001.B skills"/><br/><sub>FIG_001 Â· B</sub><br/><b>SKILLS</b></th>
+<th align="left" width="25%"><img src="site/assets/figures/001-c-agents.svg" width="96" height="96" alt="FIG_001.C agents"/><br/><sub>FIG_001 Â· C</sub><br/><b>AGENTS</b></th>
+<th align="left" width="25%"><img src="site/assets/figures/001-d-mcp-servers.svg" width="96" height="96" alt="FIG_001.D MCP servers"/><br/><sub>FIG_001 Â· D</sub><br/><b>MCP SERVERS</b></th>
 </tr>
 <tr>
 <td valign="top">Paste into any AI assistant for expert-level help on a narrow task.</td>
 <td valign="top">Drop into Claude, Cursor, Codex, OpenClaw, Hermes, or any agent that reads <code>SKILL.md</code>.</td>
-<td valign="top">Deploy as autonomous workers — you wrote the loop yourself in Phase 14.</td>
+<td valign="top">Deploy as autonomous workers â€” you wrote the loop yourself in Phase 14.</td>
 <td valign="top">Plug into any MCP-compatible client. Built end-to-end in Phase 13.</td>
 </tr>
 </table>
@@ -373,7 +373,7 @@ Other curricula end with *"congratulations, you learned X."* Each lesson here en
 > By the end of the curriculum, you have a portfolio of 523 artifacts you actually
 > understand because you built them.
 
-### FIG_002 · A worked sample
+### FIG_002 Â· A worked sample
 
 Phase 14, lesson 1: the agent loop. ~120 lines of pure Python, no dependencies.
 
@@ -426,7 +426,7 @@ the agent went wrong and explain why...
 </table>
 
 ```text
-░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
+â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’
 ```
 
 <a id="contents"></a>
@@ -442,20 +442,20 @@ Twenty phases. Click any phase to expand its lesson list.
 | # | Lesson | Type | Lang |
 |:---:|--------|:----:|------|
 | 01 | [Dev Environment](phases/00-setup-and-tooling/01-dev-environment/) | Build | Python |
-| 02 | [Git & Collaboration](phases/00-setup-and-tooling/02-git-and-collaboration/) | Learn | — |
+| 02 | [Git & Collaboration](phases/00-setup-and-tooling/02-git-and-collaboration/) | Learn | â€” |
 | 03 | [GPU Setup & Cloud](phases/00-setup-and-tooling/03-gpu-setup-and-cloud/) | Build | Python |
 | 04 | [APIs & Keys](phases/00-setup-and-tooling/04-apis-and-keys/) | Build | Python |
 | 05 | [Jupyter Notebooks](phases/00-setup-and-tooling/05-jupyter-notebooks/) | Build | Python |
 | 06 | [Python Environments](phases/00-setup-and-tooling/06-python-environments/) | Build | Shell |
 | 07 | [Docker for AI](phases/00-setup-and-tooling/07-docker-for-ai/) | Build | Docker |
-| 08 | [Editor Setup](phases/00-setup-and-tooling/08-editor-setup/) | Build | — |
+| 08 | [Editor Setup](phases/00-setup-and-tooling/08-editor-setup/) | Build | â€” |
 | 09 | [Data Management](phases/00-setup-and-tooling/09-data-management/) | Build | Python |
-| 10 | [Terminal & Shell](phases/00-setup-and-tooling/10-terminal-and-shell/) | Learn | — |
-| 11 | [Linux for AI](phases/00-setup-and-tooling/11-linux-for-ai/) | Learn | — |
+| 10 | [Terminal & Shell](phases/00-setup-and-tooling/10-terminal-and-shell/) | Learn | â€” |
+| 11 | [Linux for AI](phases/00-setup-and-tooling/11-linux-for-ai/) | Learn | â€” |
 | 12 | [Debugging & Profiling](phases/00-setup-and-tooling/12-debugging-and-profiling/) | Build | Python |
 
 <details id="phase-1">
-<summary><b>Phase 1 — Math Foundations</b> &nbsp;<code>22 lessons</code>&nbsp; <em>The intuition behind every AI algorithm, through code.</em></summary>
+<summary><b>Phase 1 â€” Math Foundations</b> &nbsp;<code>22 lessons</code>&nbsp; <em>The intuition behind every AI algorithm, through code.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -486,7 +486,7 @@ Twenty phases. Click any phase to expand its lesson list.
 </details>
 
 <details id="phase-2">
-<summary><b>Phase 2 — ML Fundamentals</b> &nbsp;<code>18 lessons</code>&nbsp; <em>Classical ML — still the backbone of most production AI.</em></summary>
+<summary><b>Phase 2 â€” ML Fundamentals</b> &nbsp;<code>18 lessons</code>&nbsp; <em>Classical ML â€” still the backbone of most production AI.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -513,7 +513,7 @@ Twenty phases. Click any phase to expand its lesson list.
 </details>
 
 <details id="phase-3">
-<summary><b>Phase 3 — Deep Learning Core</b> &nbsp;<code>13 lessons</code>&nbsp; <em>Neural networks from first principles. No frameworks until you build one.</em></summary>
+<summary><b>Phase 3 â€” Deep Learning Core</b> &nbsp;<code>13 lessons</code>&nbsp; <em>Neural networks from first principles. No frameworks until you build one.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -535,7 +535,7 @@ Twenty phases. Click any phase to expand its lesson list.
 </details>
 
 <details id="phase-4">
-<summary><b>Phase 4 — Computer Vision</b> &nbsp;<code>28 lessons</code>&nbsp; <em>From pixels to understanding — image, video, 3D, VLMs, and world models.</em></summary>
+<summary><b>Phase 4 â€” Computer Vision</b> &nbsp;<code>28 lessons</code>&nbsp; <em>From pixels to understanding â€” image, video, 3D, VLMs, and world models.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -545,19 +545,19 @@ Twenty phases. Click any phase to expand its lesson list.
 | 03 | [CNNs: LeNet to ResNet](phases/04-computer-vision/03-cnns-lenet-to-resnet/) | Build | Python |
 | 04 | [Image Classification](phases/04-computer-vision/04-image-classification/) | Build | Python |
 | 05 | [Transfer Learning & Fine-Tuning](phases/04-computer-vision/05-transfer-learning/) | Build | Python |
-| 06 | [Object Detection — YOLO from Scratch](phases/04-computer-vision/06-object-detection-yolo/) | Build | Python |
-| 07 | [Semantic Segmentation — U-Net](phases/04-computer-vision/07-semantic-segmentation-unet/) | Build | Python |
-| 08 | [Instance Segmentation — Mask R-CNN](phases/04-computer-vision/08-instance-segmentation-mask-rcnn/) | Build | Python |
-| 09 | [Image Generation — GANs](phases/04-computer-vision/09-image-generation-gans/) | Build | Python |
-| 10 | [Image Generation — Diffusion Models](phases/04-computer-vision/10-image-generation-diffusion/) | Build | Python |
-| 11 | [Stable Diffusion — Architecture & Fine-Tuning](phases/04-computer-vision/11-stable-diffusion/) | Build | Python |
-| 12 | [Video Understanding — Temporal Modeling](phases/04-computer-vision/12-video-understanding/) | Build | Python |
+| 06 | [Object Detection â€” YOLO from Scratch](phases/04-computer-vision/06-object-detection-yolo/) | Build | Python |
+| 07 | [Semantic Segmentation â€” U-Net](phases/04-computer-vision/07-semantic-segmentation-unet/) | Build | Python |
+| 08 | [Instance Segmentation â€” Mask R-CNN](phases/04-computer-vision/08-instance-segmentation-mask-rcnn/) | Build | Python |
+| 09 | [Image Generation â€” GANs](phases/04-computer-vision/09-image-generation-gans/) | Build | Python |
+| 10 | [Image Generation â€” Diffusion Models](phases/04-computer-vision/10-image-generation-diffusion/) | Build | Python |
+| 11 | [Stable Diffusion â€” Architecture & Fine-Tuning](phases/04-computer-vision/11-stable-diffusion/) | Build | Python |
+| 12 | [Video Understanding â€” Temporal Modeling](phases/04-computer-vision/12-video-understanding/) | Build | Python |
 | 13 | [3D Vision: Point Clouds, NeRFs](phases/04-computer-vision/13-3d-vision-nerf/) | Build | Python |
 | 14 | [Vision Transformers (ViT)](phases/04-computer-vision/14-vision-transformers/) | Build | Python |
 | 15 | [Real-Time Vision: Edge Deployment](phases/04-computer-vision/15-real-time-edge/) | Build | Python |
 | 16 | [Build a Complete Vision Pipeline](phases/04-computer-vision/16-vision-pipeline-capstone/) | Build | Python |
-| 17 | [Self-Supervised Vision — SimCLR, DINO, MAE](phases/04-computer-vision/17-self-supervised-vision/) | Build | Python |
-| 18 | [Open-Vocabulary Vision — CLIP](phases/04-computer-vision/18-open-vocab-clip/) | Build | Python |
+| 17 | [Self-Supervised Vision â€” SimCLR, DINO, MAE](phases/04-computer-vision/17-self-supervised-vision/) | Build | Python |
+| 18 | [Open-Vocabulary Vision â€” CLIP](phases/04-computer-vision/18-open-vocab-clip/) | Build | Python |
 | 19 | [OCR & Document Understanding](phases/04-computer-vision/19-ocr-document-understanding/) | Build | Python |
 | 20 | [Image Retrieval & Metric Learning](phases/04-computer-vision/20-image-retrieval-metric/) | Build | Python |
 | 21 | [Keypoint Detection & Pose Estimation](phases/04-computer-vision/21-keypoint-pose/) | Build | Python |
@@ -572,7 +572,7 @@ Twenty phases. Click any phase to expand its lesson list.
 </details>
 
 <details id="phase-5">
-<summary><b>Phase 5 — NLP: Foundations to Advanced</b> &nbsp;<code>29 lessons</code>&nbsp; <em>Language is the interface to intelligence.</em></summary>
+<summary><b>Phase 5 â€” NLP: Foundations to Advanced</b> &nbsp;<code>29 lessons</code>&nbsp; <em>Language is the interface to intelligence.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -584,9 +584,9 @@ Twenty phases. Click any phase to expand its lesson list.
 | 05 | [Sentiment Analysis](phases/05-nlp-foundations-to-advanced/05-sentiment-analysis/) | Build | Python |
 | 06 | [Named Entity Recognition (NER)](phases/05-nlp-foundations-to-advanced/06-named-entity-recognition/) | Build | Python |
 | 07 | [POS Tagging & Syntactic Parsing](phases/05-nlp-foundations-to-advanced/07-pos-tagging-parsing/) | Build | Python |
-| 08 | [Text Classification — CNNs & RNNs for Text](phases/05-nlp-foundations-to-advanced/08-cnns-rnns-for-text/) | Build | Python |
+| 08 | [Text Classification â€” CNNs & RNNs for Text](phases/05-nlp-foundations-to-advanced/08-cnns-rnns-for-text/) | Build | Python |
 | 09 | [Sequence-to-Sequence Models](phases/05-nlp-foundations-to-advanced/09-sequence-to-sequence/) | Build | Python |
-| 10 | [Attention Mechanism — The Breakthrough](phases/05-nlp-foundations-to-advanced/10-attention-mechanism/) | Build | Python |
+| 10 | [Attention Mechanism â€” The Breakthrough](phases/05-nlp-foundations-to-advanced/10-attention-mechanism/) | Build | Python |
 | 11 | [Machine Translation](phases/05-nlp-foundations-to-advanced/11-machine-translation/) | Build | Python |
 | 12 | [Text Summarization](phases/05-nlp-foundations-to-advanced/12-text-summarization/) | Build | Python |
 | 13 | [Question Answering Systems](phases/05-nlp-foundations-to-advanced/13-question-answering/) | Build | Python |
@@ -610,7 +610,7 @@ Twenty phases. Click any phase to expand its lesson list.
 </details>
 
 <details id="phase-6">
-<summary><b>Phase 6 — Speech & Audio</b> &nbsp;<code>17 lessons</code>&nbsp; <em>Hear, understand, speak.</em></summary>
+<summary><b>Phase 6 â€” Speech & Audio</b> &nbsp;<code>17 lessons</code>&nbsp; <em>Hear, understand, speak.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -627,16 +627,16 @@ Twenty phases. Click any phase to expand its lesson list.
 | 10 | [Audio-Language Models](phases/06-speech-and-audio/10-audio-language-models) | Build | Python |
 | 11 | [Real-Time Audio Processing](phases/06-speech-and-audio/11-real-time-audio-processing) | Build | Python |
 | 12 | [Build a Voice Assistant Pipeline](phases/06-speech-and-audio/12-voice-assistant-pipeline) | Build | Python |
-| 13 | [Neural Audio Codecs — EnCodec, SNAC, Mimi, DAC](phases/06-speech-and-audio/13-neural-audio-codecs) | Learn | Python |
+| 13 | [Neural Audio Codecs â€” EnCodec, SNAC, Mimi, DAC](phases/06-speech-and-audio/13-neural-audio-codecs) | Learn | Python |
 | 14 | [Voice Activity Detection & Turn-Taking](phases/06-speech-and-audio/14-voice-activity-detection-turn-taking) | Build | Python |
-| 15 | [Streaming Speech-to-Speech — Moshi, Hibiki](phases/06-speech-and-audio/15-streaming-speech-to-speech-moshi-hibiki) | Learn | Python |
+| 15 | [Streaming Speech-to-Speech â€” Moshi, Hibiki](phases/06-speech-and-audio/15-streaming-speech-to-speech-moshi-hibiki) | Learn | Python |
 | 16 | [Voice Anti-Spoofing & Audio Watermarking](phases/06-speech-and-audio/16-anti-spoofing-audio-watermarking) | Build | Python |
-| 17 | [Audio Evaluation — WER, MOS, MMAU, Leaderboards](phases/06-speech-and-audio/17-audio-evaluation-metrics) | Learn | Python |
+| 17 | [Audio Evaluation â€” WER, MOS, MMAU, Leaderboards](phases/06-speech-and-audio/17-audio-evaluation-metrics) | Learn | Python |
 
 </details>
 
 <details id="phase-7">
-<summary><b>Phase 7 — Transformers Deep Dive</b> &nbsp;<code>16 lessons</code>&nbsp; <em>The architecture that changed everything.</em></summary>
+<summary><b>Phase 7 â€” Transformers Deep Dive</b> &nbsp;<code>16 lessons</code>&nbsp; <em>The architecture that changed everything.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -646,22 +646,22 @@ Twenty phases. Click any phase to expand its lesson list.
 | 03 | [Multi-Head Attention](phases/07-transformers-deep-dive/03-multi-head-attention/) | Build | Python |
 | 04 | [Positional Encoding: Sinusoidal, RoPE, ALiBi](phases/07-transformers-deep-dive/04-positional-encoding/) | Build | Python |
 | 05 | [The Full Transformer: Encoder + Decoder](phases/07-transformers-deep-dive/05-full-transformer/) | Build | Python |
-| 06 | [BERT — Masked Language Modeling](phases/07-transformers-deep-dive/06-bert-masked-language-modeling/) | Build | Python |
-| 07 | [GPT — Causal Language Modeling](phases/07-transformers-deep-dive/07-gpt-causal-language-modeling/) | Build | Python |
-| 08 | [T5, BART — Encoder-Decoder Models](phases/07-transformers-deep-dive/08-t5-bart-encoder-decoder/) | Learn | Python |
+| 06 | [BERT â€” Masked Language Modeling](phases/07-transformers-deep-dive/06-bert-masked-language-modeling/) | Build | Python |
+| 07 | [GPT â€” Causal Language Modeling](phases/07-transformers-deep-dive/07-gpt-causal-language-modeling/) | Build | Python |
+| 08 | [T5, BART â€” Encoder-Decoder Models](phases/07-transformers-deep-dive/08-t5-bart-encoder-decoder/) | Learn | Python |
 | 09 | [Vision Transformers (ViT)](phases/07-transformers-deep-dive/09-vision-transformers/) | Build | Python |
-| 10 | [Audio Transformers — Whisper Architecture](phases/07-transformers-deep-dive/10-audio-transformers-whisper/) | Learn | Python |
+| 10 | [Audio Transformers â€” Whisper Architecture](phases/07-transformers-deep-dive/10-audio-transformers-whisper/) | Learn | Python |
 | 11 | [Mixture of Experts (MoE)](phases/07-transformers-deep-dive/11-mixture-of-experts/) | Build | Python |
 | 12 | [KV Cache, Flash Attention & Inference Optimization](phases/07-transformers-deep-dive/12-kv-cache-flash-attention/) | Build | Python |
 | 13 | [Scaling Laws](phases/07-transformers-deep-dive/13-scaling-laws/) | Learn | Python |
 | 14 | [Build a Transformer from Scratch](phases/07-transformers-deep-dive/14-build-a-transformer-capstone/) | Build | Python |
-| 15 | [Attention Variants — Sliding Window, Sparse, Differential](phases/07-transformers-deep-dive/15-attention-variants/) | Build | Python |
-| 16 | [Speculative Decoding — Draft, Verify, Repeat](phases/07-transformers-deep-dive/16-speculative-decoding/) | Build | Python |
+| 15 | [Attention Variants â€” Sliding Window, Sparse, Differential](phases/07-transformers-deep-dive/15-attention-variants/) | Build | Python |
+| 16 | [Speculative Decoding â€” Draft, Verify, Repeat](phases/07-transformers-deep-dive/16-speculative-decoding/) | Build | Python |
 
 </details>
 
 <details id="phase-8">
-<summary><b>Phase 8 — Generative AI</b> &nbsp;<code>15 lessons</code>&nbsp; <em>Create images, video, audio, 3D, and more.</em></summary>
+<summary><b>Phase 8 â€” Generative AI</b> &nbsp;<code>15 lessons</code>&nbsp; <em>Create images, video, audio, 3D, and more.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -671,7 +671,7 @@ Twenty phases. Click any phase to expand its lesson list.
 | 03 | [GANs: Generator vs Discriminator](phases/08-generative-ai/03-gans-generator-discriminator/) | Build | Python |
 | 04 | [Conditional GANs & Pix2Pix](phases/08-generative-ai/04-conditional-gans-pix2pix/) | Build | Python |
 | 05 | [StyleGAN](phases/08-generative-ai/05-stylegan/) | Build | Python |
-| 06 | [Diffusion Models — DDPM from Scratch](phases/08-generative-ai/06-diffusion-ddpm-from-scratch/) | Build | Python |
+| 06 | [Diffusion Models â€” DDPM from Scratch](phases/08-generative-ai/06-diffusion-ddpm-from-scratch/) | Build | Python |
 | 07 | [Latent Diffusion & Stable Diffusion](phases/08-generative-ai/07-latent-diffusion-stable-diffusion/) | Build | Python |
 | 08 | [ControlNet, LoRA & Conditioning](phases/08-generative-ai/08-controlnet-lora-conditioning/) | Build | Python |
 | 09 | [Inpainting, Outpainting & Editing](phases/08-generative-ai/09-inpainting-outpainting-editing/) | Build | Python |
@@ -685,7 +685,7 @@ Twenty phases. Click any phase to expand its lesson list.
 </details>
 
 <details id="phase-9">
-<summary><b>Phase 9 — Reinforcement Learning</b> &nbsp;<code>12 lessons</code>&nbsp; <em>The foundation of RLHF and game-playing AI.</em></summary>
+<summary><b>Phase 9 â€” Reinforcement Learning</b> &nbsp;<code>12 lessons</code>&nbsp; <em>The foundation of RLHF and game-playing AI.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -695,8 +695,8 @@ Twenty phases. Click any phase to expand its lesson list.
 | 03 | [Monte Carlo Methods](phases/09-reinforcement-learning/03-monte-carlo-methods/) | Build | Python |
 | 04 | [Q-Learning, SARSA](phases/09-reinforcement-learning/04-q-learning-sarsa/) | Build | Python |
 | 05 | [Deep Q-Networks (DQN)](phases/09-reinforcement-learning/05-dqn/) | Build | Python |
-| 06 | [Policy Gradients — REINFORCE](phases/09-reinforcement-learning/06-policy-gradients-reinforce/) | Build | Python |
-| 07 | [Actor-Critic — A2C, A3C](phases/09-reinforcement-learning/07-actor-critic-a2c-a3c/) | Build | Python |
+| 06 | [Policy Gradients â€” REINFORCE](phases/09-reinforcement-learning/06-policy-gradients-reinforce/) | Build | Python |
+| 07 | [Actor-Critic â€” A2C, A3C](phases/09-reinforcement-learning/07-actor-critic-a2c-a3c/) | Build | Python |
 | 08 | [PPO](phases/09-reinforcement-learning/08-ppo/) | Build | Python |
 | 09 | [Reward Modeling & RLHF](phases/09-reinforcement-learning/09-reward-modeling-rlhf/) | Build | Python |
 | 10 | [Multi-Agent RL](phases/09-reinforcement-learning/10-multi-agent-rl/) | Build | Python |
@@ -706,7 +706,7 @@ Twenty phases. Click any phase to expand its lesson list.
 </details>
 
 <details id="phase-10">
-<summary><b>Phase 10 — LLMs from Scratch</b> &nbsp;<code>24 lessons</code>&nbsp; <em>Build, train, and understand large language models.</em></summary>
+<summary><b>Phase 10 â€” LLMs from Scratch</b> &nbsp;<code>24 lessons</code>&nbsp; <em>Build, train, and understand large language models.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -716,11 +716,11 @@ Twenty phases. Click any phase to expand its lesson list.
 | 03 | [Data Pipelines for Pre-Training](phases/10-llms-from-scratch/03-data-pipelines/) | Build | Python |
 | 04 | [Pre-Training a Mini GPT (124M)](phases/10-llms-from-scratch/04-pre-training-mini-gpt/) | Build | Python |
 | 05 | [Distributed Training, FSDP, DeepSpeed](phases/10-llms-from-scratch/05-scaling-distributed/) | Build | Python |
-| 06 | [Instruction Tuning — SFT](phases/10-llms-from-scratch/06-instruction-tuning-sft/) | Build | Python |
-| 07 | [RLHF — Reward Model + PPO](phases/10-llms-from-scratch/07-rlhf/) | Build | Python |
-| 08 | [DPO — Direct Preference Optimization](phases/10-llms-from-scratch/08-dpo/) | Build | Python |
+| 06 | [Instruction Tuning â€” SFT](phases/10-llms-from-scratch/06-instruction-tuning-sft/) | Build | Python |
+| 07 | [RLHF â€” Reward Model + PPO](phases/10-llms-from-scratch/07-rlhf/) | Build | Python |
+| 08 | [DPO â€” Direct Preference Optimization](phases/10-llms-from-scratch/08-dpo/) | Build | Python |
 | 09 | [Constitutional AI & Self-Improvement](phases/10-llms-from-scratch/09-constitutional-ai-self-improvement/) | Build | Python |
-| 10 | [Evaluation — Benchmarks, Evals](phases/10-llms-from-scratch/10-evaluation/) | Build | Python |
+| 10 | [Evaluation â€” Benchmarks, Evals](phases/10-llms-from-scratch/10-evaluation/) | Build | Python |
 | 11 | [Quantization: INT8, GPTQ, AWQ, GGUF](phases/10-llms-from-scratch/11-quantization/) | Build | Python |
 | 12 | [Inference Optimization](phases/10-llms-from-scratch/12-inference-optimization/) | Build | Python |
 | 13 | [Building a Complete LLM Pipeline](phases/10-llms-from-scratch/13-building-complete-llm-pipeline/) | Build | Python |
@@ -731,7 +731,7 @@ Twenty phases. Click any phase to expand its lesson list.
 | 18 | [Multi-Token Prediction (MTP)](phases/10-llms-from-scratch/18-multi-token-prediction/) | Build | Python |
 | 19 | [DualPipe Parallelism](phases/10-llms-from-scratch/19-dualpipe-parallelism/) | Learn | Python |
 | 20 | [DeepSeek-V3 Architecture Walkthrough](phases/10-llms-from-scratch/20-deepseek-v3-walkthrough/) | Learn | Python |
-| 21 | [Jamba — Hybrid SSM-Transformer](phases/10-llms-from-scratch/21-jamba-hybrid-ssm-transformer/) | Learn | Python |
+| 21 | [Jamba â€” Hybrid SSM-Transformer](phases/10-llms-from-scratch/21-jamba-hybrid-ssm-transformer/) | Learn | Python |
 | 22 | [Async and Hogwild! Inference](phases/10-llms-from-scratch/22-async-hogwild-inference/) | Build | Python |
 | 25 | [Speculative Decoding and EAGLE](phases/10-llms-from-scratch/25-speculative-decoding/) | Build | Python |
 | 34 | [Gradient Checkpointing and Activation Recomputation](phases/10-llms-from-scratch/34-gradient-checkpointing/) | Build | Python |
@@ -739,7 +739,7 @@ Twenty phases. Click any phase to expand its lesson list.
 </details>
 
 <details id="phase-11">
-<summary><b>Phase 11 — LLM Engineering</b> &nbsp;<code>17 lessons</code>&nbsp; <em>Put LLMs to work in production.</em></summary>
+<summary><b>Phase 11 â€” LLM Engineering</b> &nbsp;<code>17 lessons</code>&nbsp; <em>Put LLMs to work in production.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -759,13 +759,13 @@ Twenty phases. Click any phase to expand its lesson list.
 | 13 | [Building a Production LLM App](phases/11-llm-engineering/13-production-app/) | Build | Python |
 | 14 | [Model Context Protocol (MCP)](phases/11-llm-engineering/14-model-context-protocol/) | Build | Python |
 | 15 | [Prompt Caching & Context Caching](phases/11-llm-engineering/15-prompt-caching/) | Build | Python |
-| 16 | [Agent State Machines — Graphs, Nodes, Checkpoints](phases/11-llm-engineering/16-langgraph-state-machines/) | Build | Python |
+| 16 | [Agent State Machines â€” Graphs, Nodes, Checkpoints](phases/11-llm-engineering/16-langgraph-state-machines/) | Build | Python |
 | 17 | [Agent Framework Tradeoffs](phases/11-llm-engineering/17-agent-framework-tradeoffs/) | Learn | Python |
 
 </details>
 
 <details id="phase-12">
-<summary><b>Phase 12 — Multimodal AI</b> &nbsp;<code>25 lessons</code>&nbsp; <em>See, hear, read, and reason across modalities — from ViT patches to computer-use agents.</em></summary>
+<summary><b>Phase 12 â€” Multimodal AI</b> &nbsp;<code>25 lessons</code>&nbsp; <em>See, hear, read, and reason across modalities â€” from ViT patches to computer-use agents.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -775,7 +775,7 @@ Twenty phases. Click any phase to expand its lesson list.
 | 03 | [BLIP-2 Q-Former as Modality Bridge](phases/12-multimodal-ai/03-blip2-qformer-bridge/) | Build | Python |
 | 04 | [Flamingo and Gated Cross-Attention](phases/12-multimodal-ai/04-flamingo-gated-cross-attention/) | Learn | Python |
 | 05 | [LLaVA and Visual Instruction Tuning](phases/12-multimodal-ai/05-llava-visual-instruction-tuning/) | Build | Python |
-| 06 | [Any-Resolution Vision — Patch-n'-Pack and NaFlex](phases/12-multimodal-ai/06-any-resolution-patch-n-pack/) | Build | Python |
+| 06 | [Any-Resolution Vision â€” Patch-n'-Pack and NaFlex](phases/12-multimodal-ai/06-any-resolution-patch-n-pack/) | Build | Python |
 | 07 | [Open-Weight VLM Recipes: What Actually Matters](phases/12-multimodal-ai/07-open-weight-vlm-recipes/) | Learn | Python |
 | 08 | [LLaVA-OneVision: Single, Multi, Video](phases/12-multimodal-ai/08-llava-onevision-single-multi-video/) | Build | Python |
 | 09 | [Qwen-VL Family and Dynamic-FPS Video](phases/12-multimodal-ai/09-qwen-vl-family-dynamic-fps/) | Learn | Python |
@@ -790,7 +790,7 @@ Twenty phases. Click any phase to expand its lesson list.
 | 18 | [Long-Video at Million-Token Context](phases/12-multimodal-ai/18-long-video-million-token/) | Build | Python |
 | 19 | [Audio-Language Models: Whisper to AF3](phases/12-multimodal-ai/19-audio-language-whisper-to-af3/) | Build | Python |
 | 20 | [Omni Models: Thinker-Talker Streaming](phases/12-multimodal-ai/20-omni-models-thinker-talker/) | Build | Python |
-| 21 | [Embodied VLAs: RT-2, OpenVLA, π0, GR00T](phases/12-multimodal-ai/21-embodied-vlas-openvla-pi0-groot/) | Learn | Python |
+| 21 | [Embodied VLAs: RT-2, OpenVLA, Ï€0, GR00T](phases/12-multimodal-ai/21-embodied-vlas-openvla-pi0-groot/) | Learn | Python |
 | 22 | [Document and Diagram Understanding](phases/12-multimodal-ai/22-document-diagram-understanding/) | Build | Python |
 | 23 | [ColPali Vision-Native Document RAG](phases/12-multimodal-ai/23-colpali-vision-native-rag/) | Build | Python |
 | 24 | [Multimodal RAG and Cross-Modal Retrieval](phases/12-multimodal-ai/24-multimodal-rag-cross-modal/) | Build | Python |
@@ -799,7 +799,7 @@ Twenty phases. Click any phase to expand its lesson list.
 </details>
 
 <details id="phase-13">
-<summary><b>Phase 13 — Tools & Protocols</b> &nbsp;<code>31 lessons</code>&nbsp; <em>The interfaces between AI and the real world.</em></summary>
+<summary><b>Phase 13 â€” Tools & Protocols</b> &nbsp;<code>31 lessons</code>&nbsp; <em>The interfaces between AI and the real world.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -851,7 +851,7 @@ navigation from 22 to 23.
 </details>
 
 <details id="phase-14">
-<summary><b>Phase 14 — Agent Engineering</b> &nbsp;<code>54 lessons</code>&nbsp; <em>Build agents from first principles, use coding agents reliably, and shape the work before implementation.</em></summary>
+<summary><b>Phase 14 â€” Agent Engineering</b> &nbsp;<code>54 lessons</code>&nbsp; <em>Build agents from first principles, use coding agents reliably, and shape the work before implementation.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -862,29 +862,29 @@ navigation from 22 to 23.
 | 04 | [Tree of Thoughts and LATS](phases/14-agent-engineering/04-tree-of-thoughts-lats/) | Build | Python |
 | 05 | [Self-Refine and CRITIC](phases/14-agent-engineering/05-self-refine-and-critic/) | Build | Python |
 | 06 | [Tool Use and Function Calling](phases/14-agent-engineering/06-tool-use-and-function-calling/) | Build | Python |
-| 07 | [Agent Memory — Virtual Context and Memory Paging](phases/14-agent-engineering/07-memory-virtual-context-memgpt/) | Build | Python |
+| 07 | [Agent Memory â€” Virtual Context and Memory Paging](phases/14-agent-engineering/07-memory-virtual-context-memgpt/) | Build | Python |
 | 08 | [Memory Blocks and Sleep-Time Compute](phases/14-agent-engineering/08-memory-blocks-sleep-time-compute/) | Build | Python |
-| 09 | [Hybrid Memory — Vector + Graph + KV](phases/14-agent-engineering/09-hybrid-memory-mem0/) | Build | Python |
+| 09 | [Hybrid Memory â€” Vector + Graph + KV](phases/14-agent-engineering/09-hybrid-memory-mem0/) | Build | Python |
 | 10 | [Skill Libraries and Lifelong Learning (Voyager)](phases/14-agent-engineering/10-skill-libraries-voyager/) | Build | Python |
 | 11 | [Planning with HTN and Evolutionary Search](phases/14-agent-engineering/11-planning-htn-and-evolutionary/) | Build | Python |
 | 12 | [Anthropic's Workflow Patterns](phases/14-agent-engineering/12-anthropic-workflow-patterns/) | Build | Python |
-| 13 | [Stateful Graph Orchestration — Durable Execution and Checkpoints](phases/14-agent-engineering/13-langgraph-stateful-graphs/) | Build | Python |
+| 13 | [Stateful Graph Orchestration â€” Durable Execution and Checkpoints](phases/14-agent-engineering/13-langgraph-stateful-graphs/) | Build | Python |
 | 14 | [The Actor Model for Agents](phases/14-agent-engineering/14-autogen-actor-model/) | Build | Python |
-| 15 | [Role-Based Agent Teams — Roles, Tasks, Processes](phases/14-agent-engineering/15-crewai-role-based-crews/) | Build | Python |
-| 16 | [OpenAI Agents SDK — Handoffs, Guardrails, Tracing](phases/14-agent-engineering/16-openai-agents-sdk/) | Build | Python |
-| 17 | [The Harness as a Library — Subagents and Session Store](phases/14-agent-engineering/17-claude-agent-sdk/) | Build | Python |
+| 15 | [Role-Based Agent Teams â€” Roles, Tasks, Processes](phases/14-agent-engineering/15-crewai-role-based-crews/) | Build | Python |
+| 16 | [OpenAI Agents SDK â€” Handoffs, Guardrails, Tracing](phases/14-agent-engineering/16-openai-agents-sdk/) | Build | Python |
+| 17 | [The Harness as a Library â€” Subagents and Session Store](phases/14-agent-engineering/17-claude-agent-sdk/) | Build | Python |
 | 18 | [Production Agent Runtimes](phases/14-agent-engineering/18-agno-and-mastra-runtimes/) | Learn | Python |
-| 19 | [Benchmarks — SWE-bench, GAIA, AgentBench](phases/14-agent-engineering/19-benchmarks-swebench-gaia/) | Learn | Python |
-| 20 | [Benchmarks — WebArena and OSWorld](phases/14-agent-engineering/20-benchmarks-webarena-osworld/) | Learn | Python |
-| 21 | [Computer Use — Claude, OpenAI CUA, Gemini](phases/14-agent-engineering/21-computer-use-agents/) | Build | Python |
-| 22 | [Voice Agents — Pipecat and LiveKit](phases/14-agent-engineering/22-voice-agents-pipecat-livekit/) | Build | Python |
+| 19 | [Benchmarks â€” SWE-bench, GAIA, AgentBench](phases/14-agent-engineering/19-benchmarks-swebench-gaia/) | Learn | Python |
+| 20 | [Benchmarks â€” WebArena and OSWorld](phases/14-agent-engineering/20-benchmarks-webarena-osworld/) | Learn | Python |
+| 21 | [Computer Use â€” Claude, OpenAI CUA, Gemini](phases/14-agent-engineering/21-computer-use-agents/) | Build | Python |
+| 22 | [Voice Agents â€” Pipecat and LiveKit](phases/14-agent-engineering/22-voice-agents-pipecat-livekit/) | Build | Python |
 | 23 | [OpenTelemetry GenAI Semantic Conventions](phases/14-agent-engineering/23-otel-genai-conventions/) | Build | Python |
-| 24 | [Agent Observability — Langfuse, Phoenix, Opik](phases/14-agent-engineering/24-agent-observability-platforms/) | Learn | Python |
+| 24 | [Agent Observability â€” Langfuse, Phoenix, Opik](phases/14-agent-engineering/24-agent-observability-platforms/) | Learn | Python |
 | 25 | [Multi-Agent Debate and Collaboration](phases/14-agent-engineering/25-multi-agent-debate/) | Build | Python |
-| 26 | [Failure Modes — Why Agents Break](phases/14-agent-engineering/26-failure-modes-agentic/) | Build | Python |
+| 26 | [Failure Modes â€” Why Agents Break](phases/14-agent-engineering/26-failure-modes-agentic/) | Build | Python |
 | 27 | [Prompt Injection and the PVE Defense](phases/14-agent-engineering/27-prompt-injection-defense/) | Build | Python |
-| 28 | [Orchestration Patterns — Supervisor, Swarm, Hierarchical](phases/14-agent-engineering/28-orchestration-patterns/) | Build | Python |
-| 29 | [Production Runtimes — Queue, Event, Cron](phases/14-agent-engineering/29-production-runtimes/) | Learn | Python |
+| 28 | [Orchestration Patterns â€” Supervisor, Swarm, Hierarchical](phases/14-agent-engineering/28-orchestration-patterns/) | Build | Python |
+| 29 | [Production Runtimes â€” Queue, Event, Cron](phases/14-agent-engineering/29-production-runtimes/) | Learn | Python |
 | 30 | [Eval-Driven Agent Development](phases/14-agent-engineering/30-eval-driven-agent-development/) | Build | Python |
 | 31 | [Agent Workbench: Why Capable Models Still Fail](phases/14-agent-engineering/31-agent-workbench-why-models-fail/) | Learn | Python |
 | 32 | [The Minimal Agent Workbench](phases/14-agent-engineering/32-minimal-agent-workbench/) | Build | Python |
@@ -922,7 +922,7 @@ through evidence, risk, scope, measurement, staged release, and feedback ownersh
 </details>
 
 <details id="phase-15">
-<summary><b>Phase 15 — Autonomous Systems</b> &nbsp;<code>22 lessons</code>&nbsp; <em>Long-horizon agents, self-improvement, and the 2026 safety stack.</em></summary>
+<summary><b>Phase 15 â€” Autonomous Systems</b> &nbsp;<code>22 lessons</code>&nbsp; <em>Long-horizon agents, self-improvement, and the 2026 safety stack.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -930,7 +930,7 @@ through evidence, risk, scope, measurement, staged release, and feedback ownersh
 | 01 | [From Chatbots to Long-Horizon Agents (METR)](phases/15-autonomous-systems/01-long-horizon-agents/) | Learn | Python |
 | 02 | [STaR, V-STaR, Quiet-STaR: Self-Taught Reasoning](phases/15-autonomous-systems/02-star-family-reasoning/) | Learn | Python |
 | 03 | [AlphaEvolve: Evolutionary Coding Agents](phases/15-autonomous-systems/03-alphaevolve-evolutionary-coding/) | Learn | Python |
-| 04 | [Darwin Gödel Machine: Self-Modifying Agents](phases/15-autonomous-systems/04-darwin-godel-machine/) | Learn | Python |
+| 04 | [Darwin GÃ¶del Machine: Self-Modifying Agents](phases/15-autonomous-systems/04-darwin-godel-machine/) | Learn | Python |
 | 05 | [AI Scientist v2: Workshop-Level Research](phases/15-autonomous-systems/05-ai-scientist-v2/) | Learn | Python |
 | 06 | [Automated Alignment Research (Anthropic AAR)](phases/15-autonomous-systems/06-automated-alignment-research/) | Learn | Python |
 | 07 | [Recursive Self-Improvement: Capability vs Alignment](phases/15-autonomous-systems/07-recursive-self-improvement/) | Learn | Python |
@@ -953,7 +953,7 @@ through evidence, risk, scope, measurement, staged release, and feedback ownersh
 </details>
 
 <details id="phase-16">
-<summary><b>Phase 16 — Multi-Agent & Swarms</b> &nbsp;<code>25 lessons</code>&nbsp; <em>Coordination, emergence, and collective intelligence.</em></summary>
+<summary><b>Phase 16 â€” Multi-Agent & Swarms</b> &nbsp;<code>25 lessons</code>&nbsp; <em>Coordination, emergence, and collective intelligence.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -965,11 +965,11 @@ through evidence, risk, scope, measurement, staged release, and feedback ownersh
 | 05 | [Supervisor / Orchestrator-Worker Pattern](phases/16-multi-agent-and-swarms/05-supervisor-orchestrator-pattern/) | Build | Python |
 | 06 | [Hierarchical Architecture and Decomposition Drift](phases/16-multi-agent-and-swarms/06-hierarchical-architecture/) | Learn | Python |
 | 07 | [Society of Mind and Multi-Agent Debate](phases/16-multi-agent-and-swarms/07-society-of-mind-debate/) | Build | Python |
-| 08 | [Role Specialization — Planner / Critic / Executor / Verifier](phases/16-multi-agent-and-swarms/08-role-specialization/) | Build | Python |
+| 08 | [Role Specialization â€” Planner / Critic / Executor / Verifier](phases/16-multi-agent-and-swarms/08-role-specialization/) | Build | Python |
 | 09 | [Parallel Swarm and Networked Architectures](phases/16-multi-agent-and-swarms/09-parallel-swarm-networks/) | Build | Python |
 | 10 | [Group Chat and Speaker Selection](phases/16-multi-agent-and-swarms/10-group-chat-speaker-selection/) | Build | Python |
 | 11 | [Handoffs and Routines (Stateless Orchestration)](phases/16-multi-agent-and-swarms/11-handoffs-and-routines/) | Build | Python |
-| 12 | [A2A — The Agent-to-Agent Protocol](phases/16-multi-agent-and-swarms/12-a2a-protocol/) | Build | Python |
+| 12 | [A2A â€” The Agent-to-Agent Protocol](phases/16-multi-agent-and-swarms/12-a2a-protocol/) | Build | Python |
 | 13 | [Shared Memory and Blackboard Patterns](phases/16-multi-agent-and-swarms/13-shared-memory-blackboard/) | Build | Python |
 | 14 | [Consensus and Byzantine Fault Tolerance](phases/16-multi-agent-and-swarms/14-consensus-and-bft/) | Build | Python |
 | 15 | [Voting, Self-Consistency, and Debate Topology](phases/16-multi-agent-and-swarms/15-voting-debate-topology/) | Build | Python |
@@ -977,54 +977,54 @@ through evidence, risk, scope, measurement, staged release, and feedback ownersh
 | 17 | [Generative Agents and Emergent Simulation](phases/16-multi-agent-and-swarms/17-generative-agents-simulation/) | Build | Python |
 | 18 | [Theory of Mind and Emergent Coordination](phases/16-multi-agent-and-swarms/18-theory-of-mind-coordination/) | Build | Python |
 | 19 | [Swarm Optimization (PSO, ACO)](phases/16-multi-agent-and-swarms/19-swarm-optimization-pso-aco/) | Build | Python |
-| 20 | [MARL — MADDPG, QMIX, MAPPO](phases/16-multi-agent-and-swarms/20-marl-maddpg-qmix-mappo/) | Learn | Python |
+| 20 | [MARL â€” MADDPG, QMIX, MAPPO](phases/16-multi-agent-and-swarms/20-marl-maddpg-qmix-mappo/) | Learn | Python |
 | 21 | [Agent Economies, Token Incentives, Reputation](phases/16-multi-agent-and-swarms/21-agent-economies/) | Learn | Python |
-| 22 | [Production Scaling — Queues, Checkpoints, Durability](phases/16-multi-agent-and-swarms/22-production-scaling-queues-checkpoints/) | Build | Python |
-| 23 | [Failure Modes — MAST, Groupthink, Monoculture](phases/16-multi-agent-and-swarms/23-failure-modes-mast-groupthink/) | Learn | Python |
+| 22 | [Production Scaling â€” Queues, Checkpoints, Durability](phases/16-multi-agent-and-swarms/22-production-scaling-queues-checkpoints/) | Build | Python |
+| 23 | [Failure Modes â€” MAST, Groupthink, Monoculture](phases/16-multi-agent-and-swarms/23-failure-modes-mast-groupthink/) | Learn | Python |
 | 24 | [Evaluation and Coordination Benchmarks](phases/16-multi-agent-and-swarms/24-evaluation-coordination-benchmarks/) | Learn | Python |
 | 25 | [Case Studies and 2026 State of the Art](phases/16-multi-agent-and-swarms/25-case-studies-2026-sota/) | Learn | Python |
 
 </details>
 
 <details id="phase-17">
-<summary><b>Phase 17 — Infrastructure & Production</b> &nbsp;<code>28 lessons</code>&nbsp; <em>Ship AI to the real world.</em></summary>
+<summary><b>Phase 17 â€” Infrastructure & Production</b> &nbsp;<code>28 lessons</code>&nbsp; <em>Ship AI to the real world.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
 |:---:|--------|:----:|------|
-| 01 | [Managed LLM Platforms — Bedrock, Azure OpenAI, Vertex AI](phases/17-infrastructure-and-production/01-managed-llm-platforms/) | Learn | Python |
-| 02 | [Inference Platform Economics — Fireworks, Together, Baseten, Modal](phases/17-infrastructure-and-production/02-inference-platform-economics/) | Learn | Python |
-| 03 | [GPU Autoscaling on Kubernetes — Karpenter, KAI Scheduler](phases/17-infrastructure-and-production/03-gpu-autoscaling-kubernetes/) | Learn | Python |
-| 04 | [Serving Engine Internals — PagedAttention, Continuous Batching, Chunked Prefill](phases/17-infrastructure-and-production/04-vllm-serving-internals/) | Learn | Python |
+| 01 | [Managed LLM Platforms â€” Bedrock, Azure OpenAI, Vertex AI](phases/17-infrastructure-and-production/01-managed-llm-platforms/) | Learn | Python |
+| 02 | [Inference Platform Economics â€” Fireworks, Together, Baseten, Modal](phases/17-infrastructure-and-production/02-inference-platform-economics/) | Learn | Python |
+| 03 | [GPU Autoscaling on Kubernetes â€” Karpenter, KAI Scheduler](phases/17-infrastructure-and-production/03-gpu-autoscaling-kubernetes/) | Learn | Python |
+| 04 | [Serving Engine Internals â€” PagedAttention, Continuous Batching, Chunked Prefill](phases/17-infrastructure-and-production/04-vllm-serving-internals/) | Learn | Python |
 | 05 | [EAGLE-3 Speculative Decoding in Production](phases/17-infrastructure-and-production/05-eagle3-speculative-decoding/) | Learn | Python |
-| 06 | [Prefix-Cache Serving — RadixAttention and KV Reuse](phases/17-infrastructure-and-production/06-sglang-radixattention/) | Learn | Python |
-| 07 | [Hardware-Specialized Inference Compilation — FP8 and NVFP4 on Blackwell](phases/17-infrastructure-and-production/07-tensorrt-llm-blackwell/) | Learn | Python |
-| 08 | [Inference Metrics — TTFT, TPOT, ITL, Goodput, P99](phases/17-infrastructure-and-production/08-inference-metrics-goodput/) | Learn | Python |
-| 09 | [Production Quantization — AWQ, GPTQ, GGUF, FP8, NVFP4](phases/17-infrastructure-and-production/09-production-quantization/) | Learn | Python |
+| 06 | [Prefix-Cache Serving â€” RadixAttention and KV Reuse](phases/17-infrastructure-and-production/06-sglang-radixattention/) | Learn | Python |
+| 07 | [Hardware-Specialized Inference Compilation â€” FP8 and NVFP4 on Blackwell](phases/17-infrastructure-and-production/07-tensorrt-llm-blackwell/) | Learn | Python |
+| 08 | [Inference Metrics â€” TTFT, TPOT, ITL, Goodput, P99](phases/17-infrastructure-and-production/08-inference-metrics-goodput/) | Learn | Python |
+| 09 | [Production Quantization â€” AWQ, GPTQ, GGUF, FP8, NVFP4](phases/17-infrastructure-and-production/09-production-quantization/) | Learn | Python |
 | 10 | [Cold Start Mitigation for Serverless LLMs](phases/17-infrastructure-and-production/10-cold-start-mitigation/) | Learn | Python |
 | 11 | [Multi-Region LLM Serving and KV Cache Locality](phases/17-infrastructure-and-production/11-multi-region-kv-locality/) | Learn | Python |
-| 12 | [Edge Inference — ANE, Hexagon, WebGPU, Jetson](phases/17-infrastructure-and-production/12-edge-inference/) | Learn | Python |
+| 12 | [Edge Inference â€” ANE, Hexagon, WebGPU, Jetson](phases/17-infrastructure-and-production/12-edge-inference/) | Learn | Python |
 | 13 | [LLM Observability Stack Selection](phases/17-infrastructure-and-production/13-llm-observability/) | Learn | Python |
 | 14 | [Prompt Caching and Semantic Caching Economics](phases/17-infrastructure-and-production/14-prompt-semantic-caching/) | Learn | Python |
-| 15 | [Batch APIs — the 50% Discount as Industry Standard](phases/17-infrastructure-and-production/15-batch-apis/) | Learn | Python |
+| 15 | [Batch APIs â€” the 50% Discount as Industry Standard](phases/17-infrastructure-and-production/15-batch-apis/) | Learn | Python |
 | 16 | [Model Routing as a Cost-Reduction Primitive](phases/17-infrastructure-and-production/16-model-routing/) | Learn | Python |
-| 17 | [Disaggregated Prefill/Decode — NVIDIA Dynamo and llm-d](phases/17-infrastructure-and-production/17-disaggregated-prefill-decode/) | Learn | Python |
-| 18 | [Production Serving Stack — KV Offloading and Cache-Aware Routing](phases/17-infrastructure-and-production/18-vllm-production-stack-lmcache/) | Learn | Python |
-| 19 | [AI Gateways — LiteLLM, Portkey, Kong, Bifrost](phases/17-infrastructure-and-production/19-ai-gateways/) | Learn | Python |
+| 17 | [Disaggregated Prefill/Decode â€” NVIDIA Dynamo and llm-d](phases/17-infrastructure-and-production/17-disaggregated-prefill-decode/) | Learn | Python |
+| 18 | [Production Serving Stack â€” KV Offloading and Cache-Aware Routing](phases/17-infrastructure-and-production/18-vllm-production-stack-lmcache/) | Learn | Python |
+| 19 | [AI Gateways â€” LiteLLM, Portkey, Kong, Bifrost](phases/17-infrastructure-and-production/19-ai-gateways/) | Learn | Python |
 | 20 | [Shadow, Canary, and Progressive Deployment](phases/17-infrastructure-and-production/20-shadow-canary-progressive/) | Learn | Python |
-| 21 | [A/B Testing LLM Features — GrowthBook and Statsig](phases/17-infrastructure-and-production/21-ab-testing-llm-features/) | Learn | Python |
-| 22 | [Load Testing LLM APIs — k6, LLMPerf, GenAI-Perf](phases/17-infrastructure-and-production/22-load-testing-llm-apis/) | Build | Python |
-| 23 | [SRE for AI — Multi-Agent Incident Response](phases/17-infrastructure-and-production/23-sre-for-ai/) | Learn | Python |
+| 21 | [A/B Testing LLM Features â€” GrowthBook and Statsig](phases/17-infrastructure-and-production/21-ab-testing-llm-features/) | Learn | Python |
+| 22 | [Load Testing LLM APIs â€” k6, LLMPerf, GenAI-Perf](phases/17-infrastructure-and-production/22-load-testing-llm-apis/) | Build | Python |
+| 23 | [SRE for AI â€” Multi-Agent Incident Response](phases/17-infrastructure-and-production/23-sre-for-ai/) | Learn | Python |
 | 24 | [Chaos Engineering for LLM Production](phases/17-infrastructure-and-production/24-chaos-engineering-llm/) | Learn | Python |
-| 25 | [Security — Secrets, PII Scrubbing, Audit Logs](phases/17-infrastructure-and-production/25-security-secrets-audit/) | Learn | Python |
-| 26 | [Compliance — SOC 2, HIPAA, GDPR, EU AI Act, ISO 42001](phases/17-infrastructure-and-production/26-compliance-frameworks/) | Learn | Python |
-| 27 | [FinOps for LLMs — Unit Economics and Multi-Tenant Attribution](phases/17-infrastructure-and-production/27-finops-llms/) | Learn | Python |
-| 28 | [Self-Hosted Serving Selection — Matching Engine to Hardware and Scale](phases/17-infrastructure-and-production/28-self-hosted-serving-selection/) | Learn | Python |
+| 25 | [Security â€” Secrets, PII Scrubbing, Audit Logs](phases/17-infrastructure-and-production/25-security-secrets-audit/) | Learn | Python |
+| 26 | [Compliance â€” SOC 2, HIPAA, GDPR, EU AI Act, ISO 42001](phases/17-infrastructure-and-production/26-compliance-frameworks/) | Learn | Python |
+| 27 | [FinOps for LLMs â€” Unit Economics and Multi-Tenant Attribution](phases/17-infrastructure-and-production/27-finops-llms/) | Learn | Python |
+| 28 | [Self-Hosted Serving Selection â€” Matching Engine to Hardware and Scale](phases/17-infrastructure-and-production/28-self-hosted-serving-selection/) | Learn | Python |
 
 </details>
 
 <details id="phase-18">
-<summary><b>Phase 18 — Ethics, Safety & Alignment</b> &nbsp;<code>30 lessons</code>&nbsp; <em>Build AI that helps humanity. Not optional.</em></summary>
+<summary><b>Phase 18 â€” Ethics, Safety & Alignment</b> &nbsp;<code>30 lessons</code>&nbsp; <em>Build AI that helps humanity. Not optional.</em></summary>
 <br/>
 
 | # | Lesson | Type | Lang |
@@ -1035,10 +1035,10 @@ through evidence, risk, scope, measurement, staged release, and feedback ownersh
 | 04 | [Sycophancy as RLHF Amplification](phases/18-ethics-safety-alignment/04-sycophancy-rlhf-amplification/) | Learn | Python |
 | 05 | [Constitutional AI & RLAIF](phases/18-ethics-safety-alignment/05-constitutional-ai-rlaif/) | Learn | Python |
 | 06 | [Mesa-Optimization & Deceptive Alignment](phases/18-ethics-safety-alignment/06-mesa-optimization-deceptive-alignment/) | Learn | Python |
-| 07 | [Sleeper Agents — Persistent Deception](phases/18-ethics-safety-alignment/07-sleeper-agents-persistent-deception/) | Learn | Python |
+| 07 | [Sleeper Agents â€” Persistent Deception](phases/18-ethics-safety-alignment/07-sleeper-agents-persistent-deception/) | Learn | Python |
 | 08 | [In-Context Scheming in Frontier Models](phases/18-ethics-safety-alignment/08-in-context-scheming-frontier-models/) | Learn | Python |
 | 09 | [Alignment Faking](phases/18-ethics-safety-alignment/09-alignment-faking/) | Learn | Python |
-| 10 | [AI Control — Safety Despite Subversion](phases/18-ethics-safety-alignment/10-ai-control-subversion/) | Learn | Python |
+| 10 | [AI Control â€” Safety Despite Subversion](phases/18-ethics-safety-alignment/10-ai-control-subversion/) | Learn | Python |
 | 11 | [Scalable Oversight & Weak-to-Strong](phases/18-ethics-safety-alignment/11-scalable-oversight-weak-to-strong/) | Learn | Python |
 | 12 | [Red-Teaming: PAIR & Automated Attacks](phases/18-ethics-safety-alignment/12-red-teaming-pair-automated-attacks/) | Build | Python |
 | 13 | [Many-Shot Jailbreaking](phases/18-ethics-safety-alignment/13-many-shot-jailbreaking/) | Learn | Python |
@@ -1046,7 +1046,7 @@ through evidence, risk, scope, measurement, staged release, and feedback ownersh
 | 15 | [Indirect Prompt Injection](phases/18-ethics-safety-alignment/15-indirect-prompt-injection/) | Build | Python |
 | 16 | [Red-Team Tooling: Garak, Llama Guard, PyRIT](phases/18-ethics-safety-alignment/16-red-team-tooling-garak-llamaguard-pyrit/) | Build | Python |
 | 17 | [WMDP & Dual-Use Capability Evaluation](phases/18-ethics-safety-alignment/17-wmdp-dual-use-evaluation/) | Learn | Python |
-| 18 | [Frontier Safety Frameworks — RSP, PF, FSF](phases/18-ethics-safety-alignment/18-frontier-safety-frameworks-rsp-pf-fsf/) | Learn | Python |
+| 18 | [Frontier Safety Frameworks â€” RSP, PF, FSF](phases/18-ethics-safety-alignment/18-frontier-safety-frameworks-rsp-pf-fsf/) | Learn | Python |
 | 19 | [Model Welfare Research](phases/18-ethics-safety-alignment/19-model-welfare-research/) | Learn | Python |
 | 20 | [Bias & Representational Harm](phases/18-ethics-safety-alignment/20-bias-representational-harm/) | Build | Python |
 | 21 | [Fairness Criteria: Group, Individual, Counterfactual](phases/18-ethics-safety-alignment/21-fairness-criteria-group-individual-counterfactual/) | Learn | Python |
@@ -1063,14 +1063,14 @@ through evidence, risk, scope, measurement, staged release, and feedback ownersh
 </details>
 
 <details id="phase-19">
-<summary><b>Phase 19 — Capstone Projects</b> &nbsp;<code>85 lessons</code>&nbsp; <em>17 end-to-end products + 9 deep-build tracks. 20-40 hours per project; 4-12 lessons per track.</em></summary>
+<summary><b>Phase 19 â€” Capstone Projects</b> &nbsp;<code>85 lessons</code>&nbsp; <em>17 end-to-end products + 9 deep-build tracks. 20-40 hours per project; 4-12 lessons per track.</em></summary>
 <br/>
 
 | # | Project | Combines | Lang |
 |:---:|---------|----------|------|
 | 01 | [Terminal-Native Coding Agent](phases/19-capstone-projects/01-terminal-native-coding-agent/) | P0 P5 P7 P10 P11 P13 P14 P15 P17 P18 | Python |
 | 02 | [RAG over Codebase (Cross-Repo Semantic Search)](phases/19-capstone-projects/02-rag-over-codebase/) | P5 P7 P11 P13 P17 | Python |
-| 03 | [Real-Time Voice Assistant (ASR → LLM → TTS)](phases/19-capstone-projects/03-realtime-voice-assistant/) | P6 P7 P11 P13 P14 P17 | Python |
+| 03 | [Real-Time Voice Assistant (ASR â†’ LLM â†’ TTS)](phases/19-capstone-projects/03-realtime-voice-assistant/) | P6 P7 P11 P13 P14 P17 | Python |
 | 04 | [Multimodal Document QA (Vision-First)](phases/19-capstone-projects/04-multimodal-document-qa/) | P4 P5 P7 P11 P12 P17 | Python |
 | 05 | [Autonomous Research Agent (AI-Scientist Class)](phases/19-capstone-projects/05-autonomous-research-agent/) | P0 P2 P3 P7 P10 P14 P15 P16 P18 | Python |
 | 06 | [DevOps Troubleshooting Agent for Kubernetes](phases/19-capstone-projects/06-devops-troubleshooting-agent/) | P11 P13 P14 P15 P17 P18 | Python |
@@ -1079,14 +1079,14 @@ through evidence, risk, scope, measurement, staged release, and feedback ownersh
 | 09 | [Code Migration Agent (Repo-Level Upgrade)](phases/19-capstone-projects/09-code-migration-agent/) | P5 P7 P11 P13 P14 P15 P17 | Python |
 | 10 | [Multi-Agent Software Engineering Team](phases/19-capstone-projects/10-multi-agent-software-team/) | P11 P13 P14 P15 P16 P17 | Python |
 | 11 | [LLM Observability & Eval Dashboard](phases/19-capstone-projects/11-llm-observability-dashboard/) | P11 P13 P17 P18 | Python |
-| 12 | [Video Understanding Pipeline (Scene → QA)](phases/19-capstone-projects/12-video-understanding-pipeline/) | P4 P6 P7 P11 P12 P17 | Python |
+| 12 | [Video Understanding Pipeline (Scene â†’ QA)](phases/19-capstone-projects/12-video-understanding-pipeline/) | P4 P6 P7 P11 P12 P17 | Python |
 | 13 | [Stateless MCP Server with Registry and Governance](phases/19-capstone-projects/13-mcp-server-with-registry/) | P11 P13 P14 P17 P18 | Python |
 | 14 | [Speculative-Decoding Inference Server](phases/19-capstone-projects/14-speculative-decoding-server/) | P3 P7 P10 P17 | Python |
 | 15 | [Constitutional Safety Harness + Red-Team Range](phases/19-capstone-projects/15-constitutional-safety-harness/) | P10 P11 P13 P14 P18 | Python |
 | 16 | [GitHub Issue-to-PR Autonomous Agent](phases/19-capstone-projects/16-github-issue-to-pr-agent/) | P11 P13 P14 P15 P17 | Python |
 | 17 | [Personal AI Tutor (Adaptive, Multimodal)](phases/19-capstone-projects/17-personal-ai-tutor/) | P5 P6 P11 P12 P14 P17 P18 | Python |
 
-**Deep-build tracks** — multi-lesson series that build a complete subsystem from scratch.
+**Deep-build tracks** â€” multi-lesson series that build a complete subsystem from scratch.
 
 | # | Project | Combines | Lang |
 |:---:|---------|----------|------|
@@ -1162,7 +1162,7 @@ through evidence, risk, scope, measurement, staged release, and feedback ownersh
 </details>
 
 ```text
-░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
+â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’
 ```
 
 ## The toolkit
@@ -1171,8 +1171,8 @@ Every lesson produces a reusable artifact. By the end you have:
 
 ```text
 outputs/
-├── prompts/      prompt templates for every AI task
-└── skills/       SKILL.md files for AI coding agents
+â”œâ”€â”€ prompts/      prompt templates for every AI task
+â””â”€â”€ skills/       SKILL.md files for AI coding agents
 ```
 
 Plug them into Claude, Cursor, Codex, OpenClaw, Hermes, or any agent that
@@ -1270,7 +1270,7 @@ warn-only mode (so existing drift does not block contributors).
 ### Smoke-check every lesson's Python code
 
 `scripts/lesson_run.py` byte-compiles every `.py` file under each lesson's
-`code/` directory. Default mode is syntax-check only — no execution, no API
+`code/` directory. Default mode is syntax-check only â€” no execution, no API
 keys, no heavy ML deps required. Catches the regressions contributors
 introduce most often (bad indentation, broken f-strings, stray edits).
 
@@ -1289,62 +1289,62 @@ The script is opt-in and not wired into CI.
 
 Stdlib only, Python 3.10+. Set `LINK_CHECK_SKIP=domain1,domain2` to override
 the default skip-list (`twitter.com`, `x.com`, `linkedin.com`,
-`instagram.com`, `medium.com` — domains that aggressively block automated
+`instagram.com`, `medium.com` â€” domains that aggressively block automated
 HEAD/GET).
 
 ## Where to start
 
 | Background | Start at | Estimated time |
 |---|---|---|
-| New to programming and AI | Phase 0 — Setup | ~306 hours |
-| Know Python, new to ML | Phase 1 — Math Foundations | ~270 hours |
-| Know ML, new to deep learning | Phase 3 — Deep Learning Core | ~200 hours |
-| Know deep learning, want LLMs and agents | Phase 10 — LLMs from Scratch | ~100 hours |
-| Senior engineer, only want agent engineering | Phase 14 — Agent Engineering | ~60 hours |
+| New to programming and AI | Phase 0 â€” Setup | ~306 hours |
+| Know Python, new to ML | Phase 1 â€” Math Foundations | ~270 hours |
+| Know ML, new to deep learning | Phase 3 â€” Deep Learning Core | ~200 hours |
+| Know deep learning, want LLMs and agents | Phase 10 â€” LLMs from Scratch | ~100 hours |
+| Senior engineer, only want agent engineering | Phase 14 â€” Agent Engineering | ~60 hours |
 | Only want to build production MCP systems | [Model Context Protocol (MCP) path](learning-paths/model-context-protocol.json) | ~23 hours 15 min |
 | Only want to build production Agent Skills | [Agent Skills Engineering path](learning-paths/agent-skills.json) | ~9.5 hours |
 
 ```text
-░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
+â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’
 ```
 
 ## Why this matters now
 
 <table>
 <tr>
-<th align="left" width="50%"><sub>FIG_003 · A</sub><br/><b>THE INDUSTRY SIGNAL</b></th>
-<th align="left" width="50%"><sub>FIG_003 · B</sub><br/><b>FOUNDATIONAL PAPERS COVERED</b></th>
+<th align="left" width="50%"><sub>FIG_003 Â· A</sub><br/><b>THE INDUSTRY SIGNAL</b></th>
+<th align="left" width="50%"><sub>FIG_003 Â· B</sub><br/><b>FOUNDATIONAL PAPERS COVERED</b></th>
 </tr>
 <tr>
 <td valign="top">
 
 > *"The hottest new programming language is English."*<br/>
-> — **Andrej Karpathy** ([tweet](https://x.com/karpathy/status/1617979122625712128))
+> â€” **Andrej Karpathy** ([tweet](https://x.com/karpathy/status/1617979122625712128))
 >
 > *"Software engineering is being remade in front of our eyes."*<br/>
-> — **Boris Cherny**, creator of Claude Code
+> â€” **Boris Cherny**, creator of Claude Code
 >
 > *"Models will keep getting better. The skill that compounds is **knowing what to build**."*<br/>
-> — Industry consensus, 2026
+> â€” Industry consensus, 2026
 
 </td>
 <td valign="top">
 
-- *Attention Is All You Need* — Vaswani et al., 2017 → [Phase 7](#phase-7)
-- *Language Models are Few-Shot Learners* (GPT-3) → [Phase 10](#phase-10)
-- *Denoising Diffusion Probabilistic Models* → [Phase 8](#phase-8)
-- *InstructGPT / RLHF* → [Phase 10](#phase-10)
-- *Direct Preference Optimization* → [Phase 10](#phase-10)
-- *Chain-of-Thought Prompting* → [Phase 11](#phase-11)
-- *ReAct: Reasoning + Acting in LLMs* → [Phase 14](#phase-14)
-- *Model Context Protocol* — Anthropic → [Phase 13](#phase-13)
+- *Attention Is All You Need* â€” Vaswani et al., 2017 â†’ [Phase 7](#phase-7)
+- *Language Models are Few-Shot Learners* (GPT-3) â†’ [Phase 10](#phase-10)
+- *Denoising Diffusion Probabilistic Models* â†’ [Phase 8](#phase-8)
+- *InstructGPT / RLHF* â†’ [Phase 10](#phase-10)
+- *Direct Preference Optimization* â†’ [Phase 10](#phase-10)
+- *Chain-of-Thought Prompting* â†’ [Phase 11](#phase-11)
+- *ReAct: Reasoning + Acting in LLMs* â†’ [Phase 14](#phase-14)
+- *Model Context Protocol* â€” Anthropic â†’ [Phase 13](#phase-13)
 
 </td>
 </tr>
 </table>
 
 ```text
-░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
+â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’
 ```
 
 ## Contributing
@@ -1366,13 +1366,13 @@ python3 scripts/audit_lessons.py --phase 14  # single phase
 python3 scripts/audit_lessons.py --json    # CI-friendly output
 ```
 
-Exit code is non-zero when any rule fails. Rules (L001–L010) validate directory
+Exit code is non-zero when any rule fails. Rules (L001â€“L010) validate directory
 shape, `docs/en.md` presence + H1, `code/` non-emptiness, `quiz.json` schema
 (rejects the legacy `q/choices/answer` keys that caused issue #102), and
 relative links inside lesson docs.
 
 ```text
-░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
+â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’
 ```
 
 <a id="supporters"></a>
@@ -1387,20 +1387,20 @@ Want to support the work? See [sponsorship options](SPONSORS.md), including
 [sponsor on GitHub](https://github.com/sponsors/rohitg00).
 
 ```text
-░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
+â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’â–‘â–‘â–‘â–’â–’â–’
 ```
 
 If this manual helped you, star the repo. It keeps the project alive.
 
 ## License
 
-MIT. Use it however you want — fork it, teach it, sell it, ship it. Attribution appreciated,
+MIT. Use it however you want â€” fork it, teach it, sell it, ship it. Attribution appreciated,
 not required.
 
 Maintained by [Rohit Ghumare](https://github.com/rohitg00) and the community.
 
 <sub>
-  <a href="https://x.com/ghumare64">@ghumare64</a> &nbsp;·&nbsp;
-  <a href="https://aiengineeringfromscratch.com">aiengineeringfromscratch.com</a> &nbsp;·&nbsp;
+  <a href="https://x.com/ghumare64">@ghumare64</a> &nbsp;Â·&nbsp;
+  <a href="https://aiengineeringfromscratch.com">aiengineeringfromscratch.com</a> &nbsp;Â·&nbsp;
   <a href="https://github.com/rohitg00/ai-engineering-from-scratch/issues/new/choose">Report / Suggest</a>
 </sub>
